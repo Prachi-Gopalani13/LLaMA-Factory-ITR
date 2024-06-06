@@ -1,4 +1,10 @@
 {
+  "ITR_2024" : {
+    "file_name" : "ITR_2024.json",
+    "columns" : {
+      "prompt": "text"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
